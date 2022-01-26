@@ -13,6 +13,8 @@ JS & Web 3.0
 
 https://moralis.io/web3-and-javascript-what-is-javascript-and-web3-js/?utm_source=blog&utm_medium=post&utm_campaign=How%2520to%2520Create%2520a%2520DAO%2520in%252010%2520Minutes
 
+https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
+
 
 Ethereum dApp Programming
 
@@ -27,4 +29,16 @@ https://docs.moralis.io/introduction/readme
 
 Moralis
 MetaMask
-Etherum VM
+Etherum VM,
+Alchemy
+
+https://hardhat.org
+
+
+https://thirdweb.com
+
+
+IPFS
+https://thenewstack.io/interplanetary-file-system-could-pave-the-way-for-a-distributed-permanent-web/
+
+
