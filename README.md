@@ -42,3 +42,6 @@ IPFS
 https://thenewstack.io/interplanetary-file-system-could-pave-the-way-for-a-distributed-permanent-web/
 
 How does ethereum work[https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway]
+
+Builf you Blockchin: https://www.youtube.com/watch?v=_V7MntH_Tu8
+
