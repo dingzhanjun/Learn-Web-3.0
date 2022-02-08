@@ -46,3 +46,5 @@ How does ethereum work[https://www.preethikasireddy.com/post/how-does-ethereum-w
 Builf you Blockchin: https://www.youtube.com/watch?v=_V7MntH_Tu8
 
 以太坊DAPP开发. https://www.youtube.com/watch?v=-Xf_teZBV6U
+
+DApp Zero to Hero:  https://github.com/dingzhanjun/papers/blob/master/crypto/2018-04-28-dapp-zero-to-hero.md
