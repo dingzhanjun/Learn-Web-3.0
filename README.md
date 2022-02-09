@@ -32,6 +32,11 @@ MetaMask
 Etherum VM,
 Alchemy
 
+
+Infura vs Alchemy vs Moralis: https://moralis.io/whats-the-difference-between-moralis-alchemy-and-infura/
+
+Deep Dive Comparison: Infura, Alchemy, QuickNode: https://blog.quicknode.com/price-compare-infura-alchemy-quiknode/
+
 https://hardhat.org
 
 
