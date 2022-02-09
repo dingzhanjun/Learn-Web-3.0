@@ -54,3 +54,5 @@ DApp World:  https://dapp-world.com/
 Web3 University: https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial
 
 Create a DApp from scratch: https://betterprogramming.pub/build-your-first-dapp-with-web3-js-9a7306d16a61
+
+Road to DApp:  https://wissal-haji.medium.com
