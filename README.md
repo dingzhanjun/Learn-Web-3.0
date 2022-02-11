@@ -61,3 +61,8 @@ Web3 University: https://www.dappuniversity.com/articles/the-ultimate-ethereum-d
 Create a DApp from scratch: https://betterprogramming.pub/build-your-first-dapp-with-web3-js-9a7306d16a61
 
 Road to DApp:  https://wissal-haji.medium.com
+
+
+Smart Contract
+
+Best Practice: https://github.com/ConsenSys/smart-contract-best-practices
