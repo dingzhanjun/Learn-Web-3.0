@@ -66,3 +66,5 @@ Road to DApp:  https://wissal-haji.medium.com
 Smart Contract
 
 Best Practice: https://github.com/ConsenSys/smart-contract-best-practices
+
+Solidity by Example： https://solidity-by-example.org/primitives/
