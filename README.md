@@ -28,9 +28,24 @@ https://docs.moralis.io/introduction/readme
 
 
 Moralis
+
 MetaMask
+
 Etherum VM,
+
+Buildspace
+
+CrytoDevHub
+
 Alchemy
+
+OpenZeppelin
+
+Chainlink
+
+Ethereum
+
+The Daily Gwei
 
 
 Infura vs Alchemy vs Moralis: https://moralis.io/whats-the-difference-between-moralis-alchemy-and-infura/
