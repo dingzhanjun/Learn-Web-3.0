@@ -80,6 +80,8 @@ Road to DApp:  https://wissal-haji.medium.com
 
 Smart Contract
 
+Security: https://blog.openzeppelin.com/onward-with-ethereum-smart-contract-security-97a827e47702/
+
 Best Practice: https://github.com/ConsenSys/smart-contract-best-practices
 
 Solidity by Example: https://solidity-by-example.org/primitives/
