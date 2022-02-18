@@ -58,5 +58,6 @@ Solana, Binance, Cardano, Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub
 - [Security](https://blog.openzeppelin.com/onward-with-ethereum-smart-contract-security-97a827e47702/)
 - [Best Practice](https://github.com/ConsenSys/smart-contract-best-practices)
 - [Creating a contract with a smart contract](https://medium.com/upstate-interactive/creating-a-contract-with-a-smart-contract-bdb67c5c8595)
+- [Contract Factory Cone](https://blog.logrocket.com/creating-contract-factory-clone-solidity-smart-contracts/)
 - [Solidity by Example](https://solidity-by-example.org/primitives/)
 - [迷恋猫代码分析](https://github.com/bigdata123456/BitTigerLab/blob/master/Blockchain/Classes/CryptoKitties/README.md)
