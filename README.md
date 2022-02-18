@@ -1,6 +1,13 @@
-# Learn-Web-3.0
-## DAO
+# Road to Web 3.0
+## Concept
+- [How Blockchains Work: A Brief Introduction and Must-Know Terms](https://hackernoon.com/how-blockchains-work-a-brief-introduction-and-must-know-terms)
+- [An Essential Introduction to Bitcoin for Developers](https://hackernoon.com/an-essential-introduction-to-bitcoin-for-developers)
+- [How does ethereum work](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
+- [Build you Blockchin](https://www.youtube.com/watch?v=_V7MntH_Tu8)
+- [以太坊DAPP开发](https://www.youtube.com/watch?v=-Xf_teZBV6U)
 - [What is DAO](https://www.investopedia.com/tech/what-dao/)
+
+## DAO
 - [Create You Own DAO](https://www.quicknode.com/guides/web3-sdks/how-to-create-your-own-dao-with-aragon)
 - [Create A DAO in 10 minutes](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
 
@@ -20,16 +27,9 @@
 - [Build a Simple dApp](https://docs.moralis.io/guides/build-a-simple-dapp-in-3-minutes?utm_source=blog&utm_medium=post&utm_campaign=Web3%2520and%2520JavaScript%2520%25E2%2580%2593%2520What%2520is%2520JavaScript%2520and%2520Web3.js%253F)
 
 
-## Concept
-- [How does ethereum work](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
-
-- [Build you Blockchin](https://www.youtube.com/watch?v=_V7MntH_Tu8)
-
-- [以太坊DAPP开发](https://www.youtube.com/watch?v=-Xf_teZBV6U)
-
 ## Platforms and Tools
 
-Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub, Alchemy, OpenZeppelin, Chainlink, Ethereum, The Daily Gwei
+Solana, Binance, Cardano, Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub, Alchemy, OpenZeppelin, Chainlink, Ethereum, The Daily Gwei
 
 - [Infura vs Alchemy vs Moralis](https://moralis.io/whats-the-difference-between-moralis-alchemy-and-infura/)
 
