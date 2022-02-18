@@ -60,32 +60,32 @@ https://thirdweb.com
 
 [IPFS](https://thenewstack.io/interplanetary-file-system-could-pave-the-way-for-a-distributed-permanent-web/)
 
-[How does ethereum work] ([https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway])
+[How does ethereum work]([https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway])
 
-[Builf you Blockchin] (https://www.youtube.com/watch?v=_V7MntH_Tu8)
+[Builf you Blockchin](https://www.youtube.com/watch?v=_V7MntH_Tu8)
 
-[以太坊DAPP开发] (https://www.youtube.com/watch?v=-Xf_teZBV6U)
+[以太坊DAPP开发](https://www.youtube.com/watch?v=-Xf_teZBV6U)
 
-[DApp Zero to Hero] (https://github.com/dingzhanjun/papers/blob/master/crypto/2018-04-28-dapp-zero-to-hero.md)
+[DApp Zero to Hero](https://github.com/dingzhanjun/papers/blob/master/crypto/2018-04-28-dapp-zero-to-hero.md)
 
-[DApp World] (https://dapp-world.com/)
+[DApp World](https://dapp-world.com/)
 
 [Web3 University](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial)
 
-[Create a DApp from scratch] (https://betterprogramming.pub/build-your-first-dapp-with-web3-js-9a7306d16a61)
+[Create a DApp from scratch](https://betterprogramming.pub/build-your-first-dapp-with-web3-js-9a7306d16a61)
 
-[Road to DApp] (https://wissal-haji.medium.com)
+[Road to DApp](https://wissal-haji.medium.com)
 
 
 # Smart Contract
 
 
-[Life Cycle] (https://hackernoon.com/ethereum-smart-contracts-lifecycle-multiple-contracts-message-sender-e9195ceff3ec)
+[Life Cycle](https://hackernoon.com/ethereum-smart-contracts-lifecycle-multiple-contracts-message-sender-e9195ceff3ec)
 
-[Security] (https://blog.openzeppelin.com/onward-with-ethereum-smart-contract-security-97a827e47702/)
+[Security](https://blog.openzeppelin.com/onward-with-ethereum-smart-contract-security-97a827e47702/)
 
-[Best Practice] (https://github.com/ConsenSys/smart-contract-best-practices)
+[Best Practice](https://github.com/ConsenSys/smart-contract-best-practices)
 
-[Solidity by Example] (https://solidity-by-example.org/primitives/)
+[Solidity by Example](https://solidity-by-example.org/primitives/)
 
-[迷恋猫代码分析] (https://github.com/bigdata123456/BitTigerLab/blob/master/Blockchain/Classes/CryptoKitties/README.md)
+[迷恋猫代码分析](https://github.com/bigdata123456/BitTigerLab/blob/master/Blockchain/Classes/CryptoKitties/README.md)
