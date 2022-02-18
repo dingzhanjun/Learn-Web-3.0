@@ -20,6 +20,13 @@ https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
 [Build a Simple dApp](https://docs.moralis.io/guides/build-a-simple-dapp-in-3-minutes?utm_source=blog&utm_medium=post&utm_campaign=Web3%2520and%2520JavaScript%2520%25E2%2580%2593%2520What%2520is%2520JavaScript%2520and%2520Web3.js%253F)
 
 
+## Concept
+[How does ethereum work]([https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway])
+
+[Build you Blockchin](https://www.youtube.com/watch?v=_V7MntH_Tu8)
+
+[以太坊DAPP开发](https://www.youtube.com/watch?v=-Xf_teZBV6U)
+
 ## Platforms and Tools
 
 Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub, Alchemy, OpenZeppelin, Chainlink, Ethereum, The Daily Gwei
@@ -31,14 +38,7 @@ Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub, Alchemy, OpenZeppelin, C
 [hardhat](https://hardhat.org)
 [3rd Web](https://thirdweb.com)
 
-
 [IPFS](https://thenewstack.io/interplanetary-file-system-could-pave-the-way-for-a-distributed-permanent-web/)
-
-[How does ethereum work]([https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway])
-
-[Builf you Blockchin](https://www.youtube.com/watch?v=_V7MntH_Tu8)
-
-[以太坊DAPP开发](https://www.youtube.com/watch?v=-Xf_teZBV6U)
 
 [DApp Zero to Hero](https://github.com/dingzhanjun/papers/blob/master/crypto/2018-04-28-dapp-zero-to-hero.md)
 
@@ -51,8 +51,7 @@ Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub, Alchemy, OpenZeppelin, C
 [Road to DApp](https://wissal-haji.medium.com)
 
 
-# Smart Contract
-
+## Smart Contract
 
 [Life Cycle](https://hackernoon.com/ethereum-smart-contracts-lifecycle-multiple-contracts-message-sender-e9195ceff3ec)
 
