@@ -21,7 +21,7 @@ https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
 
 
 ## Concept
-[How does ethereum work]([https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway])
+[How does ethereum work](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
 
 [Build you Blockchin](https://www.youtube.com/watch?v=_V7MntH_Tu8)
 
