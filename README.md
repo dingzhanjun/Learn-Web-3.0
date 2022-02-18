@@ -1,6 +1,6 @@
 # Learn-Web-3.0
 ## DAO
-- [Wast is DAO](https://www.investopedia.com/tech/what-dao/)
+- [What is DAO](https://www.investopedia.com/tech/what-dao/)
 - [Create You Own DAO](https://www.quicknode.com/guides/web3-sdks/how-to-create-your-own-dao-with-aragon)
 - [Create A DAO in 10 minutes](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
 
