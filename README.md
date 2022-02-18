@@ -53,7 +53,7 @@ Solana, Binance, Cardano, Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub
 
 
 ## Smart Contract
-
+- [All about Contracts](https://jeancvllr.medium.com/solidity-tutorial-all-about-contracts-e8e30bd1b289)
 - [Life Cycle](https://hackernoon.com/ethereum-smart-contracts-lifecycle-multiple-contracts-message-sender-e9195ceff3ec)
 - [Security](https://blog.openzeppelin.com/onward-with-ethereum-smart-contract-security-97a827e47702/)
 - [Best Practice](https://github.com/ConsenSys/smart-contract-best-practices)
