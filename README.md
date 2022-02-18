@@ -11,7 +11,7 @@
 https://moralis.io/web3-and-javascript-what-is-javascript-and-web3-js/?utm_source=blog&utm_medium=post&utm_campaign=How%2520to%2520Create%2520a%2520DAO%2520in%252010%2520Minutes
 
 https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
-[](https://www.sitepoint.com/building-ethereum-dapps-web3-ui-dao-contract/)
+[Build DAO Contract](https://www.sitepoint.com/building-ethereum-dapps-web3-ui-dao-contract/)
 
 
 ## Ethereum dApp Programming
@@ -24,7 +24,7 @@ https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
 
 Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub, Alchemy, OpenZeppelin, Chainlink, Ethereum, The Daily Gwei
 
-[Infura vs Alchemy vs Moralis] (https://moralis.io/whats-the-difference-between-moralis-alchemy-and-infura/)
+[Infura vs Alchemy vs Moralis](https://moralis.io/whats-the-difference-between-moralis-alchemy-and-infura/)
 
 [Deep Dive Comparison: Infura, Alchemy, QuickNode](https://blog.quicknode.com/price-compare-infura-alchemy-quiknode/)
 
