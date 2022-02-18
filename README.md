@@ -78,6 +78,7 @@ https://thirdweb.com
 
 
 # Smart Contract
+
 [Life Cycle]: (https://hackernoon.com/ethereum-smart-contracts-lifecycle-multiple-contracts-message-sender-e9195ceff3ec)
 [Security]: (https://blog.openzeppelin.com/onward-with-ethereum-smart-contract-security-97a827e47702/)
 [Best Practice]: (https://github.com/ConsenSys/smart-contract-best-practices)
