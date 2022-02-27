@@ -4,6 +4,7 @@
 - [An Essential Introduction to Bitcoin for Developers](https://hackernoon.com/an-essential-introduction-to-bitcoin-for-developers)
 - [How does ethereum work](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
 - [Build you Blockchin](https://www.youtube.com/watch?v=_V7MntH_Tu8)
+- [101 Smart contract and dApp](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 - [以太坊DAPP开发](https://www.youtube.com/watch?v=-Xf_teZBV6U)
 - [What is DAO](https://www.investopedia.com/tech/what-dao/)
 
