@@ -21,6 +21,7 @@
 - [architecture of a Web 3 App](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
 - [Build DAO Contract](https://www.sitepoint.com/building-ethereum-dapps-web3-ui-dao-contract/)
 - [Web3 Programming](https://betterprogramming.pub/tagged/web3)
+- [IPFS Resources](https://github.com/ipfs/awesome-ipfs)
 
 
 ## Ethereum dApp Programming
