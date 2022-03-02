@@ -65,3 +65,6 @@ Solana, Binance, Cardano, Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub
 - [Contract Factory Cone](https://blog.logrocket.com/creating-contract-factory-clone-solidity-smart-contracts/)
 - [Solidity by Example](https://solidity-by-example.org/primitives/)
 - [迷恋猫代码分析](https://github.com/bigdata123456/BitTigerLab/blob/master/Blockchain/Classes/CryptoKitties/README.md)
+
+## Open Source Product
+- [Decentralized Social Media](https://itsfoss.com/mainstream-social-media-alternaives/)
