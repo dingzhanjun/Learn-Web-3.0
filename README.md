@@ -33,7 +33,7 @@
 
 ## Platforms and Tools
 
-Solana, Binance, Cardano, Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub, Alchemy, OpenZeppelin, Chainlink, Ethereum, The Daily Gwei
+Stack, Bigert, Solana, Binance, Cardano, Moralis, MetaMask, Etherum VM, Buildspace, CrytoDevHub, Alchemy, OpenZeppelin, Chainlink, Ethereum, The Daily Gwei
 
 - [Infura vs Alchemy vs Moralis](https://moralis.io/whats-the-difference-between-moralis-alchemy-and-infura/)
 
