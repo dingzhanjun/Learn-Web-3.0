@@ -7,6 +7,8 @@
 - [101 Smart contract and dApp](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 - [以太坊DAPP开发](https://www.youtube.com/watch?v=-Xf_teZBV6U)
 - [What is DAO](https://www.investopedia.com/tech/what-dao/)
+- [Coin VS Token 1](https://levelup.gitconnected.com/minting-your-own-erc-20-tokens-in-ethereum-a477bd38c135)
+- [Coin VS Token 2](https://www.fintechnews.org/how-to-mint-your-crypto-coins-a-step-by-step-guide/)
 
 ## DAO
 - [Create You Own DAO](https://www.quicknode.com/guides/web3-sdks/how-to-create-your-own-dao-with-aragon)
