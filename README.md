@@ -31,6 +31,7 @@
 
 - [ethereum-dapp-programming](https://academy.moralis.io/courses/ethereum-dapp-programming)
 - [Build a Simple dApp](https://docs.moralis.io/guides/build-a-simple-dapp-in-3-minutes?utm_source=blog&utm_medium=post&utm_campaign=Web3%2520and%2520JavaScript%2520%25E2%2580%2593%2520What%2520is%2520JavaScript%2520and%2520Web3.js%253F)
+- [Building a fullstack NFT marketplace](https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
 
 
 ## Platforms and Tools
