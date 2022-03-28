@@ -57,6 +57,10 @@ Stack, Bigert, Solana, Binance, Cardano, Moralis, MetaMask, Etherum VM, Buildspa
 - [Create a DApp from scratch](https://betterprogramming.pub/build-your-first-dapp-with-web3-js-9a7306d16a61)
 
 - [Road to DApp](https://wissal-haji.medium.com)
+- [Build a e-commerce - 1](https://dev.to/daltonic/how-to-build-a-decentralized-ecommerce-platform-with-react-and-solidity-part-one-21o6)
+- [Build a e-commerce - 2](https://hackernoon.com/how-to-build-a-web3-e-commerce-platform-with-react-and-solidity-part-ii)
+- [Build a e-commerce - Repo](https://github.com/Daltonic/freshers)
+
 
 
 ## Smart Contract
